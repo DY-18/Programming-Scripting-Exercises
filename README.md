@@ -2,7 +2,7 @@
 Weekly exercises to be uploaded
 ## Week 1 Exercise ##
 Calcualte the fibonacci number using th first and last letter of the student first name
-## Week 2 ##
+## Week 2 Exercise ##
 So in my example I ran with 3 scenarios:
 1.    My surname is Young (Capital Y)
 2.    My surname is young (all lowercase)
@@ -28,3 +28,5 @@ Given a string of length one, return an integer representing the Unicode code po
 
 What is Unicode? 
 Unicode is a computing industry standard for the consistent encoding, representation, and handling of text expressed in most of the world's writing systems. The latest version contains a repertoire of 136,755 characters covering 139 modern and historic scripts, as well as multiple symbol sets. 
+## Week 3 Exercise ##
+For this exercise, after studying videos and additional information about the collatz conjecture [link to collatz conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture), the student is instructed to write  a single Python script that starts with an integer and repeatedly applies the Collatz function (divide by 2 if even, multiply by three and 1 if odd) using a while loop and if statement. At each iteration, the current value of the integer should be printed to the screen. The integer used was 17. The program asks fir an integer at the start of the code.
