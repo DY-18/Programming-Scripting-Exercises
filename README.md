@@ -1,4 +1,4 @@
-### Programming-Scripting-Exercises
+# Programming-Scripting-Exercises #
 Weekly exercises to be uploaded
 ## Week 1 Exercise ##
 Calcualte the fibonacci number using th first and last letter of the student first name
