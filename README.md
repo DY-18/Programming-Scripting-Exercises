@@ -1,8 +1,12 @@
-# Programming-Scripting-Exercises #
+### Programming-Scripting-Exercises #
 Weekly exercises to be uploaded
+
 ## Week 1 Exercise ##
+
 Calcualte the fibonacci number using th first and last letter of the student first name
+
 ## Week 2 Exercise ##
+
 So in my example I ran with 3 scenarios:
 1.    My surname is Young (Capital Y)
 2.    My surname is young (all lowercase)
@@ -28,7 +32,21 @@ Given a string of length one, return an integer representing the Unicode code po
 
 What is Unicode? 
 Unicode is a computing industry standard for the consistent encoding, representation, and handling of text expressed in most of the world's writing systems. The latest version contains a repertoire of 136,755 characters covering 139 modern and historic scripts, as well as multiple symbol sets. 
+
 ## Week 3 Exercise ##
+
 For this exercise, after studying videos and additional information about the [collatz conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture), the student is instructed to write  a single Python script that starts with an integer and repeatedly applies the Collatz function (divide by 2 if even, multiply by three and 1 if odd) using a while loop and if statement. At each iteration, the current value of the integer should be printed to the screen. The integer used was 17. The program asks fir an integer at the start of the code.
+
+## Week 4 Exercise - No exercise for this week ##
+
 ## Week 5 - Exercise 4 Euler Problem No. 5 ##
+
 This exercise is bout writing a Python program using for and range functions to calculate the the smallest positive number that is evenly divisible by all of the numbers from 1 to 20.  It is problem 5 from [Project Euler](https://projecteuler.net/problem=5). 
+
+## Week 6 Exercise ##
+
+Write a Python script that reads the Iris data set in and prints the four numerical values on each row in a nice format. That is, on the screen should be printed the petal length, petal width, sepal length and sepal width, and these values should have the decimal places aligned, with a space between the columns.
+
+## Week 7 Exercise ##
+
+Write a Python script containing a function called factorial() that takes a single input/argument which is a positive integer and returns its factorial. The factorial of a number is that number multiplied by all of the positive numbers less than it. For example, the factorial of 5 is 5x4x3x2x1 which equals 120. In the script, test the function by calling it with the values 5, 7, and 10.
