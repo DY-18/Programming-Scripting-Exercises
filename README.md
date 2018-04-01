@@ -1,4 +1,4 @@
-# Programming-Scripting-Exercises
+### Programming-Scripting-Exercises
 Weekly exercises to be uploaded
 ## Week 1 Exercise ##
 Calcualte the fibonacci number using th first and last letter of the student first name
@@ -30,3 +30,5 @@ What is Unicode?
 Unicode is a computing industry standard for the consistent encoding, representation, and handling of text expressed in most of the world's writing systems. The latest version contains a repertoire of 136,755 characters covering 139 modern and historic scripts, as well as multiple symbol sets. 
 ## Week 3 Exercise ##
 For this exercise, after studying videos and additional information about the [collatz conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture), the student is instructed to write  a single Python script that starts with an integer and repeatedly applies the Collatz function (divide by 2 if even, multiply by three and 1 if odd) using a while loop and if statement. At each iteration, the current value of the integer should be printed to the screen. The integer used was 17. The program asks fir an integer at the start of the code.
+## Week 5 - Exercise 4 Euler Problem No. 5 ##
+This exercise is bout writing a Python program using for and range functions to calculate the the smallest positive number that is evenly divisible by all of the numbers from 1 to 20.  It is problem 5 from [Project Euler](https://projecteuler.net/problem=5). 
