@@ -19,7 +19,6 @@ So in my example I ran with 3 scenarios:
 1.    My surname is Young (Capital Y)
 2.    My surname is young (all lowercase) 
 3.    My surname is YOUNG (All CAPS)
-
 It can be seen from the program that ord () function will look at the first and last letter and return an integer/whole number from the Unicode code point.
 
 *Scenario 1*
@@ -59,7 +58,7 @@ For this exercise, after studying videos and additional information about the [c
 
 ## Week 5 - Exercise 4 Euler Problem No. 5 ##
 
-This exercise is bout writing a Python program using for and range functions to calculate the the smallest positive number that is evenly divisible by all of the numbers from 1 to 20.  It is problem 5 from [Project Euler](https://projecteuler.net/problem=5). This exercise was difficult in the sense that the problem had to be understood mathematically in order to write the pyhton program. Here is a [document](Programming-Scripting-Exercises/Euler5.pdf) that explains lowest common multiples, and an example of an algorithm for this topic.
+This exercise is bout writing a Python program using for and range functions to calculate the the smallest positive number that is evenly divisible by all of the numbers from 1 to 20.  It is problem 5 from [Project Euler](https://projecteuler.net/problem=5). This exercise was difficult in the sense that the problem had to be understood mathematically in order to write the pyhton program. Here is a [document](Programming-Scripting-Exercises/Euler5.docx) that explains lowest common multiples, and an example of an algorithm for this topic.
 
 ## Week 6 Exercise ##
 
