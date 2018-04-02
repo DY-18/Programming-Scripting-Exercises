@@ -25,7 +25,7 @@ My surname is Young.
 The first letter Y is number 89.
 The last letter g is number 103.
 Fibonacci number 192 is 5972304273877744135569338397692020533504.
-
+ 
 *Scenario 2*
 
 My surname is young.
@@ -50,7 +50,7 @@ Unicode is a computing industry standard for the consistent encoding, representa
 
 ## Week 3 Exercise ##
 
-For this exercise, after studying videos and additional information about the [collatz conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture), the student is instructed to write  a single Python script that starts with an integer and repeatedly applies the Collatz function (divide by 2 if even, multiply by three and 1 if odd) using a while loop and if statement. At each iteration, the current value of the integer should be printed to the screen. The integer used was 17. The program asks for an integer at the start of the code. A very helpful book that the student found through the [Python Software Foundation](https://www.python.org/) was [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/chapter2/) with Chapter 2 giving clear explanation to both While and If statements.
+For this exercise, after studying videos and additional information about the [collatz conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture), the student is instructed to write  a single Python script that starts with an integer and repeatedly applies the Collatz function (divide by 2 if even, multiply by three and 1 if odd) using a while loop and if statement. At each iteration, the current value of the integer should be printed to the screen. The integer used was 17. The program asks for an integer at the start of the code. A very helpful book that the student found through the [Python Software Foundation](https://www.python.org/) was [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/chapter2/) with Chapter 2 giving clear explanation to both While and If statements. The source code was modified from [Stackoverflow]( https://stackoverflow.com/questions/13366830/collatz-conjecture-sequence)
 
 ## Week 4 Exercise - No exercise for this week ##
 
