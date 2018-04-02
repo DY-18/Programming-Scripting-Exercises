@@ -1,7 +1,7 @@
 # Darren Young - 04-03-2018
 #
 # Euler problem 5 - Exercise 4
-# Original program by Declan Reidy
+# Original program by Declan Reidy, another student on the course
 # 2520 is the smallest number divisible by all numbers 1 to 10
 
 i = 2520
