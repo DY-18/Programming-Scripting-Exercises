@@ -1,3 +1,4 @@
+
 # Programming-Scripting-Exercises #
 
 Weekly exercises to be uploaded to Github to demonstrate understanding of the module.
@@ -18,17 +19,23 @@ So in my example I ran with 3 scenarios:
 3.    My surname is YOUNG (All CAPS)
 
 It can be seen from the program that ord () function will look at the first and last letter and return an integer/whole number from the Unicode code point.
+
 *Scenario 1*
+
 My surname is Young
 The first letter Y is number 89
 The last letter g is number 103
 Fibonacci number 192 is 5972304273877744135569338397692020533504
+
 *Scenario 2*
+
 My surname is young
 The first letter y is number 121
 The last letter g is number 103
 Fibonacci number 224 is 29090180355503362256910111038089984964854261893
+
 *Scenario 3*
+
 My surname is YOUNG
 The first letter Y is number 89
 The last letter G is number 71
