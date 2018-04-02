@@ -25,7 +25,7 @@ It can be seen from the program that ord () function will look at the first and 
 *Scenario 1*
 
 My surname is Young.
-The first letter Y is number 89.
+Programming-Scripting-Exercises/euler-5-overview.pdf The first letter Y is number 89.
 The last letter g is number 103.
 Fibonacci number 192 is 5972304273877744135569338397692020533504.
  
@@ -59,7 +59,7 @@ For this exercise, after studying videos and additional information about the [c
 
 ## Week 5 - Exercise 4 Euler Problem No. 5 ##
 
-This exercise is bout writing a Python program using for and range functions to calculate the the smallest positive number that is evenly divisible by all of the numbers from 1 to 20.  It is problem 5 from [Project Euler](https://projecteuler.net/problem=5). This exercise was difficult in the sense that the problem had to be understood mathematically in order to write the pyhton program. Here is a [document](euler-5-overview) that explains lowest common multiples, and an example of an algorithm for this topic.
+This exercise is bout writing a Python program using for and range functions to calculate the the smallest positive number that is evenly divisible by all of the numbers from 1 to 20.  It is problem 5 from [Project Euler](https://projecteuler.net/problem=5). This exercise was difficult in the sense that the problem had to be understood mathematically in order to write the pyhton program. Here is a [document](Programming-Scripting-Exercises/euler-5-overview.pdf) that explains lowest common multiples, and an example of an algorithm for this topic.
 
 ## Week 6 Exercise ##
 
