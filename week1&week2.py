@@ -1,6 +1,6 @@
 # Ian McLoughlin
 
-# A program that displays Fibonacci numbers.
+# A program that displays Fibonacci numbers. This is the Week 1 Exercise.
 
 
 
@@ -38,7 +38,7 @@ print("Fibonacci number", x, "is", ans)
 
 # Ian McLoughlin
 
-# A program that displays Fibonacci numbers using people's names.
+# A program that displays Fibonacci numbers using people's names. This is the Week 2 Exercise
 
 
 
@@ -65,6 +65,53 @@ def fib(n):
   return i
 
 
+
+name = "Young"
+
+first = name[0]
+
+last = name[-1]
+
+firstno = ord(first)
+
+lastno = ord(last)
+
+x = firstno + lastno
+
+
+
+ans = fib(x)
+
+print("My surname is", name)
+
+print("The first letter", first, "is number", firstno)
+
+print("The last letter", last, "is number", lastno)
+
+print("Fibonacci number", x, "is", ans)
+
+name = "young"
+
+first = name[0]
+
+last = name[-1]
+
+firstno = ord(first)
+
+lastno = ord(last)
+
+x = firstno + lastno
+
+
+ans = fib(x)
+
+print("My surname is", name)
+
+print("The first letter", first, "is number", firstno)
+
+print("The last letter", last, "is number", lastno)
+
+print("Fibonacci number", x, "is", ans)
 
 name = "YOUNG"
 
