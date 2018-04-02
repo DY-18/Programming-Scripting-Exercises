@@ -1,4 +1,4 @@
-#Darren Young, 2018-12-11
+#Darren Young, 2018-2-11
 # Week 3 GMIT The Collatz Conjecture 
 # source code: modified from  https://stackoverflow.com/questions/13366830/collatz-conjecture-sequence
 
