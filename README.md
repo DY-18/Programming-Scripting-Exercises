@@ -5,15 +5,17 @@ Weekly exercises to be uploaded to Github to demonstrate understanding of the mo
 ## Week 1 Exercise ##
 
 In this exercise, an example of a pyhton program was provided by the lecturer, Dr. Ian Mcloughlin ![Dr Ian Mcloughlin](lecturer.jpg)from [Github](https://github.com/ianmcloughlin/python-fib/blob/master/fib.py).
-The python program calculated the fibonacci number when the first and last letter of the student first name is addedd together, and this number is passed through the program.  In the video lectures, the example program calculated the 30th Fibonacci number. The program  calculates the nth Fibonacci number where n the sum of the first and last letters of your first name as numbers.Using the following rule, take A as the number 1, B as 2, C as 3, and so on. Once the fibonacci number is calculated, the answer was posted to the Discussion forum.  The following was the text posted to the discussion forum; "My name is Darren, so the first and last letter of my name (D + N = 4 + 14) give the number  18. The 18th Fibonacci number is 2584".
+The python program calculated the fibonacci number when the first and last letter of the student first name is addedd together, and this number is passed through the program.  In the video lectures, the example program calculated the 30th Fibonacci number. The program  calculates the nth Fibonacci number where n the sum of the first and last letters of your first name as numbers.Using the following rule, take A as the number 1, B as 2, C as 3, and so on. Once the fibonacci number is calculated, the answer was posted to the Discussion forum.  The following was the text posted to the discussion forum: "My name is Darren, so the first and last letter of my name (D + N = 4 + 14) give the number  18. The 18th Fibonacci number is 2584".
 
 ## Week 2 Exercise ##
 
 
 Here is a [link](https://github.com/ianmcloughlin/python-fib/blob/master/fibname.py) to a program that follows the exercise that was carried out in Week 1. This program works similarly to last week's exercise. Copy and run the program. Change the string variable to contain your own surname, and rerun it. Using google, investigate the ord() function.  Post the output of the program, along with any insight you have as to what ord() does, to the discussions forum.
 
-The following was the text posted to the discussion forum
+The following was the text posted to the discussion forum:
+
 So in my example I ran with 3 scenarios:
+
 1.    My surname is Young (Capital Y)
 2.    My surname is young (all lowercase) 
 3.    My surname is YOUNG (All CAPS)
