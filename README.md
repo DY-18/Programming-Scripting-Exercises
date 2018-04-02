@@ -1,9 +1,9 @@
-# Programming-Scripting-Exercises #
+!# Programming-Scripting-Exercises #
 Weekly exercises to be uploaded
 
 ## Week 1 Exercise ##
 
-In this exercise, an example of a pyhton program was provided by the lecturer, [Dr Ian Mcloughlin] (Programming-Scripting-Exercises/Profile photo Dr Ian McLoughlin.jpg)from [Github](https://github.com/ianmcloughlin/python-fib/blob/master/fib.py).
+In this exercise, an example of a pyhton program was provided by the lecturer, ![Dr Ian Mcloughlin] (Programming-Scripting-Exercises/Profile photo Dr Ian McLoughlin.jpg)from [Github](https://github.com/ianmcloughlin/python-fib/blob/master/fib.py).
 The python program calculated the fibonacci number when the first and last letter of the student first name is addedd together, and this number is passed through the program.  In the video lectures, the example program calculated the 30th Fibonacci number. The program  calculates the nth Fibonacci number where n the sum of the first and last letters of your first name as numbers.Using the following rule, take A as the number 1, B as 2, C as 3, and so on. So for my example, my name is Darren, so D is 4 and N is 14 so I have to calculate the 18th fibonacci number. Once the fibonacci number is calculated, the answer was posted to the Discussion forum.  
 
 So in my example I ran with 3 scenarios:
