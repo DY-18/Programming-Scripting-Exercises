@@ -1,4 +1,4 @@
-
+.
 # Programming-Scripting-Exercises #
 
 Weekly exercises to be uploaded to Github to demonstrate understanding of the module.
@@ -22,26 +22,27 @@ It can be seen from the program that ord () function will look at the first and 
 
 *Scenario 1*
 
-My surname is Young
-The first letter Y is number 89
-The last letter g is number 103
-Fibonacci number 192 is 5972304273877744135569338397692020533504
+My surname is Young.
+The first letter Y is number 89.
+The last letter g is number 103.
+Fibonacci number 192 is 5972304273877744135569338397692020533504.
 
 *Scenario 2*
 
-My surname is young
-The first letter y is number 121
-The last letter g is number 103
-Fibonacci number 224 is 29090180355503362256910111038089984964854261893
+My surname is young.
+The first letter y is number 121.
+The last letter g is number 103.
+Fibonacci number 224 is 29090180355503362256910111038089984964854261893.
 
 *Scenario 3*
 
 My surname is YOUNG
-The first letter Y is number 89
-The last letter G is number 71
-Fibonacci number 160 is 1226132595394188293000174702095995
+The first letter Y is number 89.
+The last letter G is number 71.
+Fibonacci number 160 is 1226132595394188293000174702095995.
 
 So it can be seen that by changing the first and letter between lower case and uppercase, the ord function will return different numbers from the Unicode system. This in turn results in three different Fibonacci numbers.
+
 What is the ord function?
 Given a string of length one, return an integer representing the Unicode code point of the character when the argument is a unicode object, or the value of the byte when the argument is an 8-bit string. For example, ord('a') returns the integer 97, ord('€') (Euro sign) returns 8364.
 
