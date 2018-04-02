@@ -1,4 +1,4 @@
-### Programming-Scripting-Exercises #
+# Programming-Scripting-Exercises #
 Weekly exercises to be uploaded
 
 ## Week 1 Exercise ##
