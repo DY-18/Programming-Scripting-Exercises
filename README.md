@@ -58,7 +58,7 @@ For this exercise, after studying videos and additional information about the [c
 
 ## Week 5 - Exercise 4 Euler Problem No. 5 ##
 
-This exercise is bout writing a Python program using for and range functions to calculate the the smallest positive number that is evenly divisible by all of the numbers from 1 to 20.  It is problem 5 from [Project Euler](https://projecteuler.net/problem=5). This exercise was difficult in the sense that the problem had to be understood mathematically in order to write the pyhton program. Here is a [document](Programming-Scripting-Exercises/Euler5.docx) that explains lowest common multiples, and an example of an algorithm for this topic.
+This exercise is bout writing a Python program using for and range functions to calculate the the smallest positive number that is evenly divisible by all of the numbers from 1 to 20.  It is problem 5 from [Project Euler](https://projecteuler.net/problem=5). This exercise was difficult in the sense that the problem had to be understood mathematically in order to write the pyhton program. Here is  the [link](https://github.com/DY-18/Programming-Scripting-Exercises) to a document that has been posted in the repository that  explains lowest common multiples, and an example of an algorithm for this topic. Refer to document entitled **Euler5.docx** in this repository.
 
 ## Week 6 Exercise ##
 
