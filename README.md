@@ -68,7 +68,7 @@ Comment 1 - The use of 'with' keyword instructs the code to close the file and f
 Comment 2 - The use of 'for line' instructs the program to read lines from a line object, and loop over the file object. This is memory efficient, fast and leads to simpler code
 Comment 3 - This is an example of a print function with the use curly brackets (format field) along with ":" allows greater control of how the value is formatted. Use of ">" forces the field to be right aligned. 
 Comment 4 - This is an example of split strings, separated by comma, which corresponds to the printed headings of petal length, petal width, sepal length and sepal width.
-Information can be found from the [Python Tutorial webite](https://docs.python.org/3/tutorial/inputoutput.html#old-string-formatting)
+Information can be found from the [Python Tutorial website](https://docs.python.org/3/tutorial/inputoutput.html#old-string-formatting)
 
 ## Week 7 Exercise ##
 
