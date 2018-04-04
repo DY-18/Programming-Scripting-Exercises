@@ -64,13 +64,14 @@ This exercise is bout writing a Python program using for and range functions to 
 
 Write a Python script that reads the Iris data set in and prints the four numerical values on each row in a nice format. That is, on the screen should be printed the petal length, petal width, sepal length and sepal width, and these values should have the decimal places aligned, with a space between the columns. 
 I have added  comments numbers to different sections of the program and to direct back to this README file for explanations. The explanations are as follows:
-*Comment 1 - The use of 'with' keyword instructs the code to close the file and free up system resources. 'With open' instructs the program to go into a particular folder and file the file called 'iris.csv'.
 
-*Comment 2 - The use of 'for line' instructs the program to read lines from a line object, and loop over the file object. This is memory efficient, fast and leads to simpler code.
+Comment 1 - The use of 'with' keyword instructs the code to close the file and free up system resources. 'With open' instructs the program to go into a particular folder and file the file called 'iris.csv'.
 
-*Comment 3 - This is an example of a print function with the use curly brackets (format field) along with ":" allows greater control of how the value is formatted. Use of ">" forces the field to be right aligned. 
+Comment 2 - The use of 'for line' instructs the program to read lines from a line object, and loop over the file object. This is memory efficient, fast and leads to simpler code.
 
-*Comment 4 - This is an example of split strings, separated by comma, which corresponds to the printed headings of petal length, petal width, sepal length and sepal width.
+Comment 3 - This is an example of a print function with the use curly brackets (format field) along with ":" allows greater control of how the value is formatted. Use of ">" forces the field to be right aligned. 
+
+Comment 4 - This is an example of split strings, separated by comma, which corresponds to the printed headings of petal length, petal width, sepal length and sepal width.
 
 Information can be found from the [Python Tutorial website](https://docs.python.org/3/tutorial/inputoutput.html#old-string-formatting)
 
