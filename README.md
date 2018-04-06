@@ -77,4 +77,6 @@ Information can be found from the [Python Tutorial website](https://docs.python.
 
 ## Week 7 Exercise ##
 
-Write a Python script containing a function called factorial() that takes a single input/argument which is a positive integer and returns its factorial. The factorial of a number is that number multiplied by all of the positive numbers less than it. For example, the factorial of 5 is 5x4x3x2x1 which equals 120. In the script, test the function by calling it with the values 5, 7, and 10.
+Write a Python script containing a function called factorial() that takes a single input/argument which is a positive integer and returns its factorial. The factorial of a number is that number multiplied by all of the positive numbers less than it. For example, the factorial of 5 is 5x4x3x2x1 which equals 120. In the script, test the function by calling it with the values 5, 7, and 10. In this exercise, the student is defining a function. 
+The keyword def introduces a function definition. It must be followed by the function name and the parenthesized list of formal parameters. The statements that form the body of the function start at the next line, and must be indented. More information about defining functions can be found at the [Python tutorial website](https://docs.python.org/3/tutorial/controlflow.html). Also helpful links from the [Khan Academy - Defining a factorial function] (https://www.youtube.com/watch?v=JwO_25S_eWE0 and [Stackoverflow](https://stackoverflow.com/questions/26499776/python-using-def-in-a-factorial-program).
+
