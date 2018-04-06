@@ -1,15 +1,17 @@
-# Code originally from Sarah Scholz 
+# https://www.youtube.com/watch?v=JwO_25S_eWE
+
+# Modified from original code Sarah Scholz 04/03/2018
 # Function to find factorial of a given number
 
 def factorial(x):
 
-    f = 1
+    n = 1
 
     for i in range (1, x + 1):
 
-        f = i * f
+        n = i * n
 
-    return f
+    return n
 
 print("The factorial of 5 is", factorial(5))
 
