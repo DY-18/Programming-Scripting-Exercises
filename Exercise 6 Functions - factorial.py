@@ -1,6 +1,3 @@
-# https://www.youtube.com/watch?v=JwO_25S_eWE from Khan Academy Definining a factorial function
-# ttps://stackoverflow.com/questions/26499776/python-using-def-in-a-factorial-program
-
 # Modified from original code Sarah Scholz 04/03/2018
 # Function to find factorial of a given number
 
